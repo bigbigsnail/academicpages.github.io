@@ -21,7 +21,9 @@ Work experience
 * Fall 2017 - : Teaching Assistant
   * The University of Texas at Dallas
   * Courses: CS/SE 4347, CS 6360, SE 4359
+
 <!---
+
 Publications
 ======
   <ul>{% for post in site.publications %}
