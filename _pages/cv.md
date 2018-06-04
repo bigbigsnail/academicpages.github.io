@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science and Techonology, Tianjin University, Tianjin, China, 2016
-* M.S. in Computer Science, The University of Texas at Dallas, Richardson, Texas, 2018
 * Ph.D in Computer Science, The University of Texas at Dallas, Richardson, Texas, 2022 (expected)
+* M.S. in Computer Science, The University of Texas at Dallas, Richardson, Texas, 2018
+* B.Eng. in Computer Science and Techonology, Tianjin University, Tianjin, China, 2016
+
 
 Work experience
 ======
