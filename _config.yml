@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongyao Huang"
 title_separator          : "-"
 name                     : &name "Hongyao Huang"
-description              : &description "PhD student of The University of Texas at Dallas"
+description              : &description "PhD student at the University of Texas at Dallas"
 url                      : https://bigbigsnail.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bigbigsnail/bigbigsnail.github.io"
@@ -83,8 +83,8 @@ author:
   bio              : "PhD student at UT Dallas"
   location         : "Richardson,Texas"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "hhuang@utdallas.edu"
   uri              :
   bitbucket        :
   codepen          :
