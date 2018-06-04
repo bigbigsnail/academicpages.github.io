@@ -15,7 +15,7 @@ Education
 * M.S. in Computer Science, The University of Texas at Dallas, Richardson, Texas, 2018
 * B.Eng. in Computer Science and Techonology, Tianjin University, Tianjin, China, 2016
 
-
+<!---
 Work experience
 ======
 * Fall 2017 - : Teaching Assistant
@@ -42,4 +42,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
+--->
