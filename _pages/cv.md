@@ -36,6 +36,8 @@ Publications
       with Ovidiu Daescu and Maxwell Weinzierl. *The 12th ACM International Conference on PErvasive Technologies Related to Assistive Environments (PETRA), 2019*
 
 <!---
+Publications
+======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
