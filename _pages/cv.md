@@ -38,7 +38,7 @@ Publications
   
   1. Convex Hull Complexity of Uncertain Points  
       with Benjamin Raichel. To appear in *Canadian Conference on Computational Geometry (CCCG), 2020.* 
-  2. <u><a href="{{https://dl.acm.org/doi/10.1145/3316782.3316795}}">Deep Learning Based Face Recognition System with Smart Glasses</a></u>  
+  2. [**Deep Learning Based Face Recognition System with Smart Glasses**](https://dl.acm.org/doi/10.1145/3316782.3316795)
       with Ovidiu Daescu and Maxwell Weinzierl. *The 12th ACM International Conference on PErvasive Technologies Related to Assistive Environments (PETRA), 2019*
 
 <!---
