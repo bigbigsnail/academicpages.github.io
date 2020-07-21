@@ -30,9 +30,11 @@ Work experience
 
 Publications
 ======
-  <!--- <ul>{% for post in site.publications %}
+  <!--- 
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> --->
+  {% endfor %}</ul> 
+  --->
   
   1. Convex Hull Complexity of Uncertain Points  
       with Benjamin Raichel. To appear in *Canadian Conference on Computational Geometry (CCCG), 2020.* 
