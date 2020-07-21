@@ -35,6 +35,12 @@ Publications
   2. [**Deep Learning Based Face Recognition System with Smart Glasses**](https://dl.acm.org/doi/10.1145/3316782.3316795)  
       with Ovidiu Daescu and Maxwell Weinzierl. *The 12th ACM International Conference on PErvasive Technologies Related to Assistive Environments (PETRA), 2019*
 
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> 
+
 <!---
 Publications
 ======
