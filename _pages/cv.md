@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Fall 2020 - : Research Assistanta
+* Fall 2020 - : Research Assistant
   * The University of Texas at Dallas
 * Fall 2019 - Summer 2020: Teaching Assistant
   * The University of Texas at Dallas
