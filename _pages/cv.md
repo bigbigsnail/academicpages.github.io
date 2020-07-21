@@ -17,17 +17,24 @@ Education
 
 Work experience
 ======
-* Fall 2017 - : Teaching Assistant
+* Fall 2020 - : Research Assistanta
   * The University of Texas at Dallas
-  * Courses: CS/SE 4347, CS 6360, SE 4359
+* Fall 2019 - Summer 2020: Teaching Assistant
+  * The University of Texas at Dallas
+  * Courses: CS 3305, CS 4349, CS 6360, SE 4359
+* Spring 2019 - Summer 2019: Research Assistant
+  * The University of Texas at Dallas
+* Fall 2017 - Fall 2018: Teaching Assistant
+  * The University of Texas at Dallas
+  * Courses: CS 4347, CS 4349, CS 4351, CS 6360
 
-<!---
+-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
---->
+-
 <!---
 Talks
 ======

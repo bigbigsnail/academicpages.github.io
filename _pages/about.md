@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Hongyao Huang (Jeremy),  a Ph.D. candidate in Computer Science at The University of Texas at Dallas. My research interests are Algorithm and Computational Geometry.
+Hi! I am Hongyao Huang,  a Ph.D. candidate in Computer Science at The University of Texas at Dallas. My research interests are Algorithm and Computational Geometry.
 
 My advisor is Dr. Benjamin Raichel
